@@ -19,7 +19,7 @@ Este projeto apresenta a modelagem de dados em grafos para um serviço de stream
 - IN_GENRE
 
 ## Implementação
-A modelagem foi renovada em uma instância local do Neo4j Desktop, com criação dos nós e relacionamentos utilizando a linguagem Cypher.
+A modelagem foi realizada em uma instância local do Neo4j Desktop, com criação dos nós e relacionamentos utilizando a linguagem Cypher.
 ```cypher
 MATCH (n) DETACH DELETE n;
 
